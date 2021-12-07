@@ -1,0 +1,5 @@
+Benchmark,latency-Q1,memory,ObIds,Completeness,Current Throughput
+1,575.0661157024794,49.213726850656364,1998,0.2,584.0307692307692
+Final Results,NaN,39.7773691813151,1998,0.2,0.0
+
+AVERAGES,575,44,,1.0
