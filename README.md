@@ -1,5 +1,5 @@
 # Paper
-This work was part of the paper **"A Comparative Study of Stream Reasoning Engines"**. You can find the full paper at [https://doi.org/10.1007/978-3-031-33455-9_2](https://doi.org/10.1007/978-3-031-33455-9_2).
+This work is part of the paper **"A Comparative Study of Stream Reasoning Engines"**. You can find the full paper at [https://doi.org/10.1007/978-3-031-33455-9_2](https://doi.org/10.1007/978-3-031-33455-9_2).
 
 # Benchmark
 CityBench is a java-based benchmarking toolset for RSP engines, currently CQELS, C-SPARQL, RDFox, C-SPARQL2.0, and YASPER (see https://github.com/NathanGr01-Bachelorarbeit/CityBench-C-SPARQL2-YASPER/) are supported.
